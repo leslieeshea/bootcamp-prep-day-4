@@ -1,0 +1,23 @@
+camelCase
+
+TitleCase
+PascalCase
+
+kebob-case
+fruit-meat-veggie
+
+snake_case
+
+README
+
+JavsScript variables are in camelCase. Class names don't use camelCase.
+
+C# is mostly TitleCase.
+
+kebob-case is used a lot for folder/file names.
+
+Webpage names commonly uses kebob-case.
+
+SQL and Python uses a lot of snake_case.
+
+All caps are used for magic numbers or odd file names.

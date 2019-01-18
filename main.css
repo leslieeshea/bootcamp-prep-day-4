@@ -1,0 +1,17 @@
+body {
+    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+}
+h1 {
+    font-family: Constantia, "Lucida Bright", Lucidabright, "Lucida Serif", Lucida, "DejaVu Serif", "Bitstream Vera Serif", "Liberation Serif", Georgia, serif;
+
+    color: palevioletred;
+}
+label {
+    display: block;
+    padding: 10px;
+}
+button {
+    color: white;
+    background-color: mediumaquamarine;
+    padding: 5px;
+}
