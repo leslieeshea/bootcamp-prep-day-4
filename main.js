@@ -12,12 +12,10 @@ function greet() {
     var greeting = 'Hello ' + firstName + ' ' + lastName + '!';
 
     // display greeting
-    
+    var greeter = document.getElementById('greeter');
 
-    // remove prompt
+    greeter.textContent = greeting;
 }
 
 // TODO: validate name inputs
 // TODO: clear inputs after greet?
-
-greet();
